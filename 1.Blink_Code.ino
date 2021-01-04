@@ -1,19 +1,14 @@
-//All Rights Reserved
 /*
-   Maked By Harindu Lakshitha
+   
    SOCIALS
  *  *****************************************
-     Website               : Harindulk
-     Github                : Harindulk
-     Youtube               : Harindulk
-     Arduio Projects Hub   : Harindulk
-     Hackster              : Harindulk
-     Blog                  : Harindulk
-     Wordpress             : Harindulk
-     printerest            : Harindulk
-     Twitter               : Harindulk
-     Google Docs           : Harindulk
-     Linkedin              : Harindu Fonseka
+     Website               : https://www.harindu.dev
+     Github                : https://github.com/harindulk
+     My Games              : https://harindulk.itch.io
+     Youtube               : https://bit.ly/2LdqnDX
+     Facebook Page         : https://www.facebook.com/Harindulk
+     Twitter               : https://twitter.com/Harindu_Fonseka
+     Linkedin              : https://www.linkedin.com/in/harindulk
  *  *****************************************
 */
 // the setup function runs once when you press reset or power the board
