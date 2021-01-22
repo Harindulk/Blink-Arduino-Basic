@@ -56,4 +56,4 @@ Arduino LED Blink Project Code
 The value of the resistor in series with the LED may be of a different value than 220 ohm; the LED will lit up also with values up to 1K ohm.
 
 ![Image of Arduino]
-(https://www.arduino.cc/wiki/static/67ca7e6b6ba77d36ed20ff2b88178fa7/9bb7a/ExampleCircuit_bb.png)
+(https://github.com/Harindulk/Blink-Arduino-Basic/blob/Harindulk/Arduino.png?raw=true)
